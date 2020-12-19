@@ -1,0 +1,70 @@
+{
+    "Grains": {
+        "Rice": [{
+            "Name": "Basmati",
+            "Weight": "20",
+            "Price": "70"
+        }, {
+            "Name": "Parmal",
+            "Weight": "30",
+            "Price": "100"
+        }, {
+            "Name": "Dubraj",
+            "Weight": "10",
+            "Price": "150"
+        }, {
+            "Name": "HMT Kolam",
+            "Weight": "50",
+            "Price": "80"
+        }, {
+            "Name": "Indrayani",
+            "Weight": "30",
+            "Price": "90"
+        }],
+
+        "Wheat": [{
+            "Name": "Ashirvad",
+            "Weight": "10",
+            "Price": "50"
+        }, {
+            "Name": "Golden Miling",
+            "Weight": "20",
+            "Price": "80"
+        }, {
+            "Name": "Sarbati",
+            "Weight": "30",
+            "Price": "100"
+        }, {
+            "Name": "Khapli",
+            "Weight": "20",
+            "Price": "60"
+        }, {
+            "Name": "Lokwan",
+            "Weight": "15",
+            "Price": "30"
+        }],
+
+        "Pulse": [{
+            "Name": "Tur Daal",
+            "Weight": "10",
+            "Price": "50"
+        }, {
+            "Name": "Moong Daal",
+            "Weight": "20",
+            "Price": "100"
+        }, {
+            "Name": "Chana Daal",
+            "Weight": "30",
+            "Price": "100"
+        }, {
+            "Name": "Masoor Daal",
+            "Weight": "50",
+            "Price": "170"
+        }, {
+            "Name": "Urad Daal",
+            "Weight": "25",
+            "Price": "80"
+        }]
+
+    }
+}

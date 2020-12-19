@@ -1,0 +1,38 @@
+{
+    "Stock": [{
+            "Name": "Persistant",
+            "numberOfShares": "50",
+            "Price": "15000"
+        },
+        {
+            "Name": "Accenture",
+            "numberOfShares": "20",
+            "Price": "10000"
+        },
+        {
+            "Name": "IBM",
+            "numberOfShares": "10",
+            "Price": "25000"
+        },
+        {
+            "Name": "GS LAb",
+            "numberOfShares": "15",
+            "Price": "15000"
+        },
+        {
+            "Name": "Amazon",
+            "numberOfShares": "8",
+            "Price": "2000000"
+        },
+        {
+            "Name": "Thought Works",
+            "numberOfShares": "12",
+            "Price": "50000"
+        },
+        {
+            "Name": "TCS",
+            "numberOfShares": "5",
+            "Price": "85000"
+        }
+    ]
+}
